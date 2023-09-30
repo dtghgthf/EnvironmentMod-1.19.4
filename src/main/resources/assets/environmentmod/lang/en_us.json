@@ -1,0 +1,10 @@
+{
+  "item.environmentmod.example_item": "Example Item",
+  "item.environmentmod.environment_info_item": "Environment Info",
+
+  "itemGroup.environmentmodtab": "Environment Mod",
+
+  "key.category.environmentmod.environment": "Environment Mod",
+  "key.tutorialmod.increase_pollution": "Increase Pollution",
+  "key.tutorialmod.decrease_pollution": "Decrease Pollution"
+}
